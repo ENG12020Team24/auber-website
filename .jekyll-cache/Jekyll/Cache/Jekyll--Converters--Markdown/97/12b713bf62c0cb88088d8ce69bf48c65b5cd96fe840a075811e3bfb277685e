@@ -1,0 +1,71 @@
+I"�<h1 id="weekly-plan">Weekly Plan</h1>
+
+<h2 id="week-1">Week 1</h2>
+<ul>
+  <li>Introductions</li>
+  <li>Set-up Git repository</li>
+  <li>Created Google Drive to host documentation</li>
+  <li>Decided on communication platforms such as Discord</li>
+</ul>
+
+<h2 id="week-2">Week 2</h2>
+<ul>
+  <li>Obtained requirements via team-customer meeting and then tabulated them</li>
+  <li>Produced the risk assessment and mitigation table</li>
+</ul>
+
+<h2 id="week-3">Week 3</h2>
+<ul>
+  <li>Created the website</li>
+  <li>Finished UML diagram</li>
+  <li>Completed first iteration of project plan</li>
+  <li>Completed team organisation writeup</li>
+  <li>Completed risk assessment and mitigation deliverable</li>
+  <li>Designed tilesets for the game map</li>
+</ul>
+
+<h2 id="week-4">Week 4</h2>
+<ul>
+  <li>Finished a section of the architecture deliverable</li>
+  <li>Method selection and planning deliverable completed</li>
+</ul>
+
+<h2 id="week-5">Week 5</h2>
+<ul>
+  <li>Map continued to be created by Ethan and George</li>
+  <li>Assets for game continued be created by Clara and Ethan</li>
+  <li>Game continuing to be programmed on by David, Lakhan and Ethan</li>
+</ul>
+
+<h2 id="week-6">Week 6</h2>
+<ul>
+  <li>Justify architecture section completed by Adam</li>
+  <li>Architecture deliverable completed</li>
+  <li>Had 2nd team-customer meeting and updated requirements afterwards</li>
+  <li>Requirement deliverable completed</li>
+</ul>
+
+<h2 id="week-7">Week 7</h2>
+<ul>
+  <li>Completed a functioning game with related assets, meeting the ‘functioning game’ milestone</li>
+</ul>
+
+<h2 id="week-8">Week 8</h2>
+<ul>
+  <li>Tested game</li>
+  <li>Finalised documentation</li>
+  <li>Final team-customer meeting to show game and get feedback</li>
+  <li>Submitted assessment</li>
+</ul>
+
+<h1 id="how-the-plan-has-evolved">How the plan has evolved</h1>
+
+<p>We had a few changes of plans throughout the development process. 
+At the start, we decided on roles and responsibilities, and distributed the roles from the first practical among team members. As we were actually creating the game, these roles became more fluid as everyone in the group was helping each other. We have been holding bi-weekly meetings, discussing our progress and working together, rather than doing each “part” separately - Specifically, a large part of the documentation was created this way.</p>
+
+<p>David had the idea for a “papers please” style passport system to find impostors. Since that was not in the prompt, we had to scrap that idea as we ran out of time implementing more vital features. The idea was to have many ways of spotting impostors, one of which being the “passport”. Misspellings or contradictory data on the passport would give away who wasn’t really a crew member. Some concept art for these can be found in the assets folder of our shared drive.</p>
+
+<p>We also originally wanted some of the harder to recognise impostors to have red eyes, but that posed an accessibility issue - people with colour vision deficiencies or generally bad eyesight would struggle or not be able to recognise impostors that way. Instead, we gave infiltrators new sprites that feature a blue outfit or other more obvious changes in their designs. This is less likely to cause accessibility related problems, as red-green is the most common form of colour vision deficiency. Since these changes to sprite designs are more obvious at a glance, it reduces the overall difficulty of the game but does make it more accessible to a more varied audience.</p>
+
+<p>Moreover, the first map that we designed did not fit the requirements, and had to be amended very late in the implementation process. In a customer meeting, the map was criticised for being too large and not featuring properly defined “rooms”. Furthermore, some of the designs of key systems throughout the map were a focus of criticism from the customer which also had to be quickly redesigned or substituted. The game features a scrolling background image as a way to add a sense of immersion to the games space station environment. This image originally just featured some small stars, however, upon being shown to the customer this image faced some disapproval and therefore was reworked into a more interesting and immersive image which has improved the overall feel of the game.</p>
+:ET

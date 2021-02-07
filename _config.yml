@@ -1,66 +1,102 @@
-url: https://technologygarage.com
-baseurl: /auber-website/
+url: https://eng12020team24.github.io
+baseurl: /auber-website.github.io/
 
 # Site settings
 title: Auber - Find the infiltrators
 # email: your-email@domain.com
 description: "Auber is a fun game where you are the constable onboard Deep Space Y and have to find the infiltrators who are trying to sabotage the ship!"
 
-
 # Team names, titles and social links
 people:
-- name: George Burke
-  pic: George
-  social:
-    - title: envelope
-      url: gb1061@york.ac.uk
-    - title: github
-      url: https://github.com/gigabytegoob
-      
-- name: Adam Gurdikyan
-  pic: Adam
-  social:
-    - title: envelope
-      url: ag1737@york.ac.uk
-    - title: github
-      url: https://github.com/ag1737
-      
-- name: Ethan Higgins
-  pic: Ethan
-  social:
-    - title: envelope
-      url: eh1499@york.ac.uk
-    - title: github
-      url: https://github.com/EHigggins
-      
-- name: Clara Hohenlohe
-  pic: Clara
-  social:
-    - title: envelope
-      url: cmh592@york.ac.uk
-    - title: github
-      url: https://github.com/coughmedicine
-      
-- name: Lakhan Mankani
-  pic: Lakhan
-  social:
-    - title: envelope
-      url: lm1820@york.ac.uk
-    - title: github
-      url: https://github.com/lakhanmankani
+    - name: George Burke
+      pic: George
+      social:
+          - title: envelope
+            url: gb1061@york.ac.uk
+          - title: github
+            url: https://github.com/gigabytegoob
 
-- name: David Thomson
-  pic: David
-  social:
-    - title: envelope
-      url: dgt510@york.ac.uk
-    - title: github
-      url: https://github.com/MegaBoy117
+    - name: Adam Gurdikyan
+      pic: Adam
+      social:
+          - title: envelope
+            url: ag1737@york.ac.uk
+          - title: github
+            url: https://github.com/ag1737
+
+    - name: Ethan Higgins
+      pic: Ethan
+      social:
+          - title: envelope
+            url: eh1499@york.ac.uk
+          - title: github
+            url: https://github.com/EHigggins
+
+    - name: Clara Hohenlohe
+      pic: Clara
+      social:
+          - title: envelope
+            url: cmh592@york.ac.uk
+          - title: github
+            url: https://github.com/coughmedicine
+
+    - name: Lakhan Mankani
+      pic: Lakhan
+      social:
+          - title: envelope
+            url: lm1820@york.ac.uk
+          - title: github
+            url: https://github.com/lakhanmankani
+
+    - name: David Thomson
+      pic: David
+      social:
+          - title: envelope
+            url: dgt510@york.ac.uk
+          - title: github
+            url: https://github.com/MegaBoy117
+
+new_people:
+    - name: Daniel Allinson
+      pic: Daniel
+      social:
+          - title: envelope
+            url: mailto:da996@york.ac.uk
+
+    - name: Pratham Bhat
+      pic: Pratham
+      social:
+          - title: envelope
+            url: mailto:pb1028@york.ac.uk
+
+    - name: Eghosasere Ewansiha-Vlachavas
+      pic: Eghosasere
+      social:
+          - title: envelope
+            url: mailto:eiev500@york.ac.uk
+
+    - name: Tara Harley
+      pic: Tara
+      social:
+          - title: envelope
+            url: mailto:tmh528@york.ac.uk
+
+    - name: Mahir Rahman
+      pic: Mahir
+      social:
+          - title: envelope
+            url: mailto:mr1333@york.ac.uk
+
+    - name: Kyle Wilson
+      pic: Kyle
+      social:
+          - title: envelope
+            url: mailto:kdw507@york.ac.uk
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
-    url: https://github.com/lakhanmankani/eng1-t32-auber
+    - title: github
+      url: https://github.com/ENG12020Team24/T24-Hurricane-Tornado-Auber
 
 # Build settings
 markdown: kramdown

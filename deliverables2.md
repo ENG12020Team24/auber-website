@@ -19,8 +19,8 @@ layout: page
 -   [Implementation](https://drive.google.com/file/d/1iM5b5MRscW_oQZpgWBCe342DKELgeSoI/view?usp=sharing)
 -   [Code](https://github.com/ENG12020Team24/T24-Hurricane-Tornado-Auber)
 -   JavaDoc
-    -   [Core JavaDoc]()
-    -   [Desktop JavaDoc]()
+    -   [Core JavaDoc](/JavaDoc/Core/index.html)
+    -   [Desktop JavaDoc](/JavaDoc/Desktop/index.html)
 -   [Testing](https://drive.google.com/file/d/163A8Pf-NXWRgLT1eHm8ubqxCthk6b2G-/view?usp=sharing)
     -   [Testing Evidence](https://docs.google.com/presentation/d/1SqxS4DDFRRpJh7WXlCImIhv6SNNQL4H45WZj3OgVGrg/edit?usp=sharing)
 -   [Continuous Integration](https://drive.google.com/file/d/19AF_bbxPyPYDFdnAxNhIKcAVHw4Zd9ZR/view?usp=sharing)

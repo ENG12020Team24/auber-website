@@ -1,0 +1,33 @@
+I"3<h2 id="assessment-2-deliverables">Assessment 2 Deliverables:</h2>
+
+<h3 id="updated-deliverables-from-assesment-1-team">Updated Deliverables From Assesment 1 Team:</h3>
+
+<ul>
+  <li><a href="">Requirements</a></li>
+  <li><a href="">Architecture</a></li>
+  <li><a href="">Method selection and planning</a></li>
+  <li><a href="">Risk assessment and mitigation</a></li>
+</ul>
+
+<h3 id="new-deliverables">New Deliverables:</h3>
+
+<ul>
+  <li><a href="">User Manual(PDF)</a></li>
+  <li><a href="">User Manual(DOC)</a></li>
+  <li><a href="">Change Report</a></li>
+  <li><a href="">Implementation</a></li>
+  <li><a href="https://github.com/ENG12020Team24/T24-Hurricane-Tornado-Auber">Code</a></li>
+  <li>JavaDoc
+    <ul>
+      <li><a href="">Core JavaDoc</a></li>
+      <li><a href="">Desktop JavaDoc</a></li>
+    </ul>
+  </li>
+  <li><a href="">Testing</a>
+    <ul>
+      <li><a href="https://docs.google.com/presentation/d/1SqxS4DDFRRpJh7WXlCImIhv6SNNQL4H45WZj3OgVGrg/edit?usp=sharing">Testing Evidence</a></li>
+    </ul>
+  </li>
+  <li><a href="">Continuous Integration</a></li>
+</ul>
+:ET

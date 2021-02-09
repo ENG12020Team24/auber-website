@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.mygdx.auber"},{"l":"com.mygdx.auber.entities"},{"l":"com.mygdx.auber.Pathfinding"},{"l":"com.mygdx.auber.Powerups"},{"l":"com.mygdx.auber.Scenes"},{"l":"com.mygdx.auber.Screens"}]
